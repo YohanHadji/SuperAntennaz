@@ -81,7 +81,7 @@ Grand Total :
        
 Note : An additional cost of 100€ is to be expected for all shipping costs. 
 
-## Kit production and prices : 
+## Kit production and prices  
 
 The following purchase options are available : 
 
