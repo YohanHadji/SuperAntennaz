@@ -39,7 +39,7 @@ You can see the rotator in action in this video : https://www.youtube.com/watch?
 
 ## Part List
 
-1/ Mechanichal market parts
+1/ Mechanical parts on the market
 
 - 2 * RV030 Worm Gear Reducer https://fr.aliexpress.com/item/4000405892097.html - 30€
 - 2 * Reducer shaft adapatator https://fr.aliexpress.com/item/4000430356079.html - 5€
@@ -54,16 +54,9 @@ You can see the rotator in action in this video : https://www.youtube.com/watch?
 
   Total = 21 parts, ~ 200€ 
 
-2/ Operation Parts 
 
-- 1 * Arduino controller ~ 20€
-- 2 * Stepper Drivers ~ 100€ 
-- 1 * 300W Power supply ~ 30€
-- 2 * 35 mm Mast (1,5m minimum) ~ 40€ 
 
-  Sub Total = 190€ 
-
-3/ Machined part,(price is for part ordered one by one)
+2/ Machined part,(price is for part ordered one by one)
 
 - 1 * Alumnium Mast Mount 80€
 - 1 * Bracket 80€
@@ -72,8 +65,16 @@ You can see the rotator in action in this video : https://www.youtube.com/watch?
 - 1 * 3D printed elevation endstop mount and pin 5€ 
 - 1 * 3D printed azimuth endstop mount and pin 5€
 
-
   Sub Total = 200€ 
+  
+ 3/ Operation Parts 
+
+- 1 * Arduino controller ~ 20€
+- 2 * Stepper Drivers ~ 100€ 
+- 1 * 300W Power supply ~ 30€
+- 2 * 35 mm Mast (1,5m minimum) ~ 40€ 
+
+  Sub Total = 190€ 
 
 Grand Total : 
 - 590 € - for a fully operational rotator 
