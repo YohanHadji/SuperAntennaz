@@ -82,9 +82,9 @@ Grand Total :
        
 Note : An additional cost of 100€ is to be expected for all shipping costs. 
 
-## Kit production and prices  
+## Kit production and prices
 
-The following purchase options are available : 
+If you are interested by the rotator but not sure about what to buy, I could purpose the following purchase options : 
 
   - 1/ Machined parts kit, contains : Machined parts, needed screw and nuts, building instruction. 
       - 200€ 
@@ -103,6 +103,6 @@ Note : Due to the heavy weight of the rotator, expensive shipping cost have to b
 
 ## How to purchase 
 
-Contact me at hadji.yohan@gmail.com, 2 months delay have to be expected between order and shipping.  
+Contact me at hadji.yohan@gmail.com.  
 
 
