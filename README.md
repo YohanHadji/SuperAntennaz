@@ -15,7 +15,7 @@ It can support more than 10kg of antenna, orientate them really fast (close to 3
 
 ## Specifications
 
-Max torque - 80 Newton
+Max torque - 80 Nm
 
 Max speed  - 30°/s 
 
@@ -103,6 +103,6 @@ Note : Due to the heavy weight of the rotator, expensive shipping cost have to b
 
 ## How to purchase 
 
-Contact me at hadji.yohan@gmail.com.  
+contact me at hadji.yohan@gmail.com for more informations 
 
 
