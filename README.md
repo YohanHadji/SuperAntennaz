@@ -2,7 +2,7 @@
 
 ### Introduction 
 
-SuperAntennaz is an antenna rotor designed for satellite traking. 
+SuperAntennaz is an antenna rotator designed for satellite traking. 
 
 It can support more than 10kg of antenna, orientate them really fast (close to 30 deg. /s) and in its final version, it is very simple to reproduce. It is therefore perfect to be built, modified, and improved by the community of space HAM enthusiasts all over the world.
 
