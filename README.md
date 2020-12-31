@@ -27,7 +27,11 @@ Waterproof - YES
 
 You can vizualise the rotator in 3D online with this link : https://a360.co/2CAJL9K 
 
+This is a render of the last version prototype :
+
 ![](/Image/RenderSA.png)
+
+This is a picture of an older version prototype : 
 
 ![](/Image/GP/SAsun7.JPG)
 
