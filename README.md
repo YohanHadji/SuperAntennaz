@@ -15,13 +15,13 @@ It can support more than 10kg of antenna, orientate them really fast (close to 3
 
 ## Specifications
 
-Max torque - 80 Nm
+Max torque - Min. 60 Nm
 
 Max speed  - 30°/s 
 
-Weight     ~ 10kg
+Weight     ~ 5.5kg
 
-Waterproof - YES 
+Outdorproof - YES 
 
 ## Presentation
 
@@ -81,8 +81,8 @@ You can see the rotator in action in this video : https://www.youtube.com/watch?
   Sub Total = 190€ 
 
 Grand Total : 
-- 590 € - for a fully operational rotator 
-- 400 € - for a rotator without control electronics and mast 
+~ 600 € - for a fully operational rotator 
+~ 500 € - for a rotator without control electronics and mast 
        
 Note : An additional cost of 100€ is to be expected for all shipping costs. 
 
@@ -91,19 +91,16 @@ Note : An additional cost of 100€ is to be expected for all shipping costs.
 If you are interested by the rotator but not sure about what to buy, I could purpose the following purchase options : 
 
   - 1/ Machined parts kit, contains : Machined parts, needed screw and nuts, building instruction. 
-      - 250€ 
+      - 250€ + Shipping costs (~20€ for europe)
   
   - 2/ Rotator kit, contains : Mechanical market parts, + Machined parts, needed screw and nuts, building instruction. 
-      - 500€ 
+      - 550€ + Shipping costs (~40€ for europe)
   
   - 3/ Operational Rotator kit, contains : Operations parts + Mechanical market parts, + Machined parts, needed screw and nuts, building instruction.
-      - 700€ 
+      - 650€ + Shipping costs (~50€ for europe)
   
   - 4/ Operational Rotator Ready to Run 
-      - 850€ 
-    
-
-Note : Due to the heavy weight of the rotator, expensive shipping cost have to be expected. 
+      - 850€ + Shipping costs (~50€ for europe)
 
 ## How to purchase 
 
