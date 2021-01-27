@@ -33,11 +33,11 @@ This is a render of the last version prototype :
 
 This are pictures of the latest version : 
 
-![](/Image/portrait.JPG)
+![](/Image/portrait.jpg)
 
-![](/Image/dessus.JPG)
+![](/Image/dessus.jpg)
 
-![](/Image/side.JPG)
+![](/Image/side.jpg)
 
 This is a picture of the rotator mounted on a roof with its mast, its antenna, and its creator. 
 
