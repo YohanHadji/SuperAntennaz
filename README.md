@@ -31,9 +31,13 @@ This is a render of the last version prototype :
 
 ![](/Image/RenderSA.png)
 
-This is a picture of an older version prototype : 
+This are pictures of the latest version : 
 
-![](/Image/GP/SAsun7.JPG)
+![](/Image/portrait.JPG)
+
+![](/Image/dessus.JPG)
+
+![](/Image/side.JPG)
 
 This is a picture of the rotator mounted on a roof with its mast, its antenna, and its creator. 
 
