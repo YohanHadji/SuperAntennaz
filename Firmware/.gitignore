@@ -1,0 +1,4 @@
+# Eclipse-specific
+.cproject
+*/build-satnogs
+.project
