@@ -95,16 +95,16 @@ Note : An additional cost of 100€ is to be expected for all shipping costs.
 If you are interested by the rotator but not sure about what to buy, I could purpose the following purchase options : 
 
   - 1/ Machined parts kit, contains : Machined parts, needed screw and nuts, building instruction. 
-      - 250€ + Shipping costs (~20€ for europe)
+      - 219€ + Shipping costs (~20€ for europe)
   
   - 2/ Rotator kit, contains : Mechanical market parts, + Machined parts, needed screw and nuts, building instruction. 
-      - 550€ + Shipping costs (~40€ for europe)
+      - 559€ + Shipping costs (~40€ for europe)
   
   - 3/ Operational Rotator kit, contains : Operations parts + Mechanical market parts, + Machined parts, needed screw and nuts, building instruction.
-      - 650€ + Shipping costs (~50€ for europe)
+      - 659€ + Shipping costs (~50€ for europe)
   
   - 4/ Operational Rotator Ready to Run 
-      - 850€ + Shipping costs (~50€ for europe)
+      - 849€ + Shipping costs (~50€ for europe)
 
 ## How to purchase 
 
