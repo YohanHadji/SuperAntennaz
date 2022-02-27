@@ -31,7 +31,7 @@ This is a render of the last version prototype :
 
 ![](/Image/RenderSA.png)
 
-This are pictures of the latest version : 
+These are (real!) pictures of the latest version : 
 
 ![](/Image/portrait.jpeg)
 
